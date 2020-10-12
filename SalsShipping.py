@@ -1,3 +1,7 @@
+'''
+This Project was developed between July 2020 and August 2020.
+'''
+
 def groundship_cost(weight):
   if(weight<=2):
     cost=1.5*weight+20
